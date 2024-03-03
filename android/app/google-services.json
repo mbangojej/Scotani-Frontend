@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "882490828937",
+    "project_id": "ai-digital-fashion",
+    "storage_bucket": "ai-digital-fashion.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:882490828937:android:a73e621ab04604457abe58",
+        "android_client_info": {
+          "package_name": "com.arhamsoft.skincanvas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "882490828937-104imsp9s4ihrfr72vid0v86b2drp3s3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANf7z7KfqV-NWGlr6P0VVe9VSrT5W3vF8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "882490828937-104imsp9s4ihrfr72vid0v86b2drp3s3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
